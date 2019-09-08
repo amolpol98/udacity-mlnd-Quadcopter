@@ -17,11 +17,6 @@ Continuous Control Task
 Report can be viewed at [**https://amolpol98.github.io/udacity-mlnd-quadcopter/**](https://amolpol98.github.io/udacity-mlnd-quadcopter/).
 
 
-#### Final Result :
-- Final Reward-Episode Plot  :<br>
-![Final Reward-Episode Plot](resources/reward_episode.png)
-
-
 ## Project Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
